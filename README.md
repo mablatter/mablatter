@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome, I am Mario :grinning:
 
-<!--
-**mablatter/mablatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Helping companies make a positive contribution to achieve the 1.5°C climate goal.
 
-Here are some ideas to get you started:
+👨‍💻 Strong tech background, most notably in full stack development and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Join our Journey!
+
+- 🌍 I’m currently working on https://ecomio.com combatting climate change.
+- 💬 Ask me about startup life, product development, and open positions: https://ecomio.workwise.io/en
+- 📝 Our stack: https://stackshare.io/companies/eco-mio
+- 📫 How to reach me: m@ecomio.com
+
+
